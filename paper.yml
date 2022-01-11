@@ -28,9 +28,9 @@ settings:
   bungee-online-mode: true
   max-joins-per-tick: 3
   unsupported-settings:
-    allow-permanent-block-break-exploits: false
-    allow-piston-duplication: false
-    allow-headless-pistons: false
+    allow-permanent-block-break-exploits: true
+    allow-piston-duplication: true
+    allow-headless-pistons: true
     allow-permanent-block-break-exploits-readme: This setting controls if players
       should be able to break bedrock, end portals and other intended to be permanent
       blocks.
